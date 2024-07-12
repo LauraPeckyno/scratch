@@ -1,0 +1,10 @@
+header {
+    border:solid blue;
+}
+.examp1 {
+    color:green;
+}
+#examp2 {
+    color: rebeccapurple;
+    font-size: 22px;
+}
